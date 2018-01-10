@@ -1,0 +1,2 @@
+# adjango
+a django app
